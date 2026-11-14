@@ -1,0 +1,3 @@
+model,selected_alpha,test_cindex,n_genes,warnings
+clinical,0.01,0.5831866197183099,0,
+combined,0.05,0.585387323943662,500,

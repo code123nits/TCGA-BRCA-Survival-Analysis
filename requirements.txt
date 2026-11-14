@@ -1,0 +1,9 @@
+# Core dependencies. scikit-survival is tightly coupled to a specific
+# scikit-learn version, so exact pins must come from a working environment.
+# After a successful rerun, run `python code/record_environment.py` and copy
+# the versions it writes (documentation/ENVIRONMENT.txt) into this file.
+# The archived bytecode suggests the original run used Python 3.13.
+numpy
+pandas
+scikit-learn
+scikit-survival

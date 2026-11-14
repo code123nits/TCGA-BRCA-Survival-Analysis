@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+# input data are not redistributed (see documentation/DATA_ACCESS.md)
+data/
+*.pkl
+tcga_brca_*.csv
+# local rerun output
+rerun_results/
+refit_results/

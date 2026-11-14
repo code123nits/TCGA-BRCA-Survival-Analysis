@@ -1,0 +1,17 @@
+{
+  "n_test": 215,
+  "n_test_deaths": 30,
+  "clinical_cindex": 0.6712147887323944,
+  "clinical_nonzero_coefficients": 13,
+  "combined_cindex": 0.6175176056338029,
+  "combined_nonzero_coefficients": 58,
+  "combined_sensitivity_cindex": 0.585387323943662,
+  "combined_sensitivity_nonzero_coefficients": 21,
+  "combined_minus_clinical_cindex": -0.053697183098591506,
+  "valid_bootstrap_resamples": 2000,
+  "bootstrap_mean_difference": -0.05332929052116368,
+  "bootstrap_percentile_95ci": [
+    -0.2125622503372102,
+    0.0972306074177641
+  ]
+}

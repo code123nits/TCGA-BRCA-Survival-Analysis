@@ -1,0 +1,49 @@
+{
+  "seed": 42,
+  "n_boot_requested": 2000,
+  "n_boot_valid": 2000,
+  "n_test": 215,
+  "n_test_deaths": 30,
+  "cindex": {
+    "clinical": {
+      "point": 0.6712147887323944,
+      "ci95": [
+        0.5242850610236841,
+        0.8040134535254227
+      ]
+    },
+    "combined_alpha_0.03": {
+      "point": 0.6175176056338029,
+      "ci95": [
+        0.4848310012601071,
+        0.7420286255892123
+      ]
+    },
+    "combined_alpha_0.05": {
+      "point": 0.585387323943662,
+      "ci95": [
+        0.43804238909600174,
+        0.736281819873369
+      ]
+    }
+  },
+  "difference_vs_clinical": {
+    "combined_alpha_0.03": {
+      "point": -0.053697183098591506,
+      "ci95": [
+        -0.2125622503372102,
+        0.0972306074177641
+      ],
+      "bootstrap_share_below_zero": 0.7545
+    },
+    "combined_alpha_0.05": {
+      "point": -0.08582746478873238,
+      "ci95": [
+        -0.23785375471723585,
+        0.04813613497568413
+      ],
+      "bootstrap_share_below_zero": 0.8695
+    }
+  },
+  "note": "Resamples saved predictions only; excludes training, gene-selection and penalty-selection uncertainty."
+}

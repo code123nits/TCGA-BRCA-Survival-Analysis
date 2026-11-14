@@ -1,0 +1,14 @@
+feature
+age__age_at_diagnosis
+stage__pathologic_stage_Stage IA
+stage__pathologic_stage_Stage IB
+stage__pathologic_stage_Stage II
+stage__pathologic_stage_Stage IIA
+stage__pathologic_stage_Stage IIB
+stage__pathologic_stage_Stage III
+stage__pathologic_stage_Stage IIIA
+stage__pathologic_stage_Stage IIIB
+stage__pathologic_stage_Stage IIIC
+stage__pathologic_stage_Stage IV
+stage__pathologic_stage_Stage X
+stage__pathologic_stage_Unknown

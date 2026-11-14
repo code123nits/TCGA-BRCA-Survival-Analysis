@@ -1,0 +1,31 @@
+model,fold,alpha,cindex,status,warnings
+clinical,1,0.01,0.7137793531236154,ok,
+clinical,1,0.03,0.6371289322108994,ok,
+clinical,1,0.05,0.6371289322108994,ok,
+clinical,1,0.1,0.6371289322108994,ok,
+clinical,1,0.2,0.5,ok,"all coefficients are zero, consider decreasing alpha."
+clinical,2,0.01,0.7194998991732204,ok,
+clinical,2,0.03,0.6442831215970962,ok,
+clinical,2,0.05,0.6442831215970962,ok,
+clinical,2,0.1,0.6442831215970962,ok,
+clinical,2,0.2,0.5,ok,"all coefficients are zero, consider decreasing alpha."
+clinical,3,0.01,0.7449324324324325,ok,
+clinical,3,0.03,0.7046030405405406,ok,
+clinical,3,0.05,0.7037584459459459,ok,
+clinical,3,0.1,0.7037584459459459,ok,
+clinical,3,0.2,0.5,ok,"all coefficients are zero, consider decreasing alpha."
+combined,1,0.01,0.679441736818786,ok,
+combined,1,0.03,0.6847585290208241,ok,
+combined,1,0.05,0.6818785999113868,ok,
+combined,1,0.1,0.643774922463447,ok,
+combined,1,0.2,0.5,ok,"all coefficients are zero, consider decreasing alpha."
+combined,2,0.01,0.6815890300463803,ok,
+combined,2,0.03,0.6400483968542044,ok,
+combined,2,0.05,0.6172615446662634,ok,
+combined,2,0.1,0.5809639040129059,ok,
+combined,2,0.2,0.5,ok,"all coefficients are zero, consider decreasing alpha."
+combined,3,0.01,0.6256334459459459,ok,
+combined,3,0.03,0.6554054054054054,ok,
+combined,3,0.05,0.713893581081081,ok,
+combined,3,0.1,0.7037584459459459,ok,
+combined,3,0.2,0.5,ok,"all coefficients are zero, consider decreasing alpha."
